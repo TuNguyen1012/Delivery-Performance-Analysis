@@ -514,8 +514,4 @@ order by avg_days
 select * from days_delivery_state
 order by avg_days
 
-
-
-
-Select * from order_by_state
-order by number_of_order DESC
+--- end ---
