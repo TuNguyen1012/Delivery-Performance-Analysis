@@ -6,4 +6,8 @@ Goal 1. Business Overview
 
 Goal 2. We will work through delivery performance and find ways to optimize delivery times
 
-Tools: Using SQL Server to Extract, Transform, Load the data to Analyze and visualizaiton on Power BI
+Tools:
+
+- Using SQL to query data for analytics & reports to extract insights
+
+- Performing Data Visualization with Power BI  
