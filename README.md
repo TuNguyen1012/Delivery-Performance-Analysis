@@ -4,7 +4,7 @@ This analysis is based on Kaggle dataset with around 100k orders from 2016 to 20
 
 Goal 1. Business Overview
 
-Goal 2. We will work through delivery performance and find ways to optimize delivery times
+Goal 2. We will work through delivery performance and find ways to develop strategies to improve delivery efficiency
 
 Tools:
 
