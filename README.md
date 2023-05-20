@@ -16,6 +16,6 @@ Goal 2. We will work through delivery performance and find ways to develop strat
 
 ## 
 
-My Report: Delivery-Performance-Analysis
+- My Report: Delivery-Performance-Analysis
 
-My Source code: Brazilian E -Commerce Data Analysis - Delivery Perfromance.sql
+- My Source code: Brazilian E -Commerce Data Analysis - Delivery Perfromance.sql
