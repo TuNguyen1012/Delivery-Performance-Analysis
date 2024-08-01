@@ -35,7 +35,7 @@ This analysis is based on Kaggle dataset with around 100k orders from 2016 to 20
 
 •	Over 65% of orders were delivered over 5 days behind schedule as opposed to what was estimated.
 
-•	In the review score, there is a big difference between timely delivery and late delivery. **Over-time delivery orders have an average score of just 2.3, while on-time delivery orders have an average score of 4.3**. Therefore, over-time delivery may affect customer satisfaction.
+•	In the review score, there is a big difference between timely delivery and late delivery. **Over-time delivery orders have an average score of just 2.3, while on-time delivery orders have an average score of 4.3**. Therefore, over-time delivery may affect customer satisfaction.**
 •	It can be seen that the Top 20 sellers delay more than 30 times when preparing orders, especially 1 seller has 189 overdue deliveries to the carrier. When sellers fail to prepare goods repeatedly, warnings or sanctions should be implemented.
 
 •	Generally, states with a large volume of orders have faster delivery times, which is similar to the average delivery time from shipper to customer. **Sao Paulo has the fastest delivery times along with the largest volume of orders, which is a well-developed market for the company.**
