@@ -42,12 +42,29 @@ This analysis is based on Kaggle dataset with around 100k orders from 2016 to 20
 •	Generally, states with a large volume of orders have faster delivery times, which is similar to the average delivery time from shipper to customer. **Sao Paulo has the fastest delivery times along with the largest volume of orders, which is a well-developed market for the company.**
 
 
-## Conclusion
+## Optimization Recommendations:
 
-•	Order frequency is higher on Monday and Tuesday while it is low on Saturday and Sunday. Therefore, it is recommended to increase orders at the weekend to increase revenue and make deliveries more convenient. This is done with a few solutions such as giving discount vouchers and offering free shipping over the weekend.
+**Addressing State-Specific Delays:**
 
-•	We need to reduce delivery times. Especially the time between the carrier and the customer. The reason may come from the average delivery time in each state. The distance between the warehouse and the customer states will impact delivery time. Therefore, we should get faster delivery service from other carriers and upgrade our warehouses in the states. This will improve situations and reduce delivery times.
+•	Focus on improving logistics and carrier partnerships in states like RR, AM, and AP. This may involve using regional warehouses or faster shipping options.
 
-•	There should be warnings and penalties for sellers who repeatedly delay orders to the carrier. These sellers may be restricted from displaying on the website or fined for violations
+**Improving Seller Performance:**
 
-•	Although it has a 3% undelivered rate, the Company should work with the warehouse department and carriers to avoid missing out on orders.
+•	 Collaborate with underperforming sellers. Offer training or tools for better order preparation and dispatch processes.
+
+•	 There should be warnings and penalties for sellers who repeatedly delay orders to the carrier. These sellers may be restricted from displaying on the website or fined for violations
+
+**Optimizing Processes for Delayed Categories:**
+
+•	 Prioritize orders that tend to fall into the 5–30 day delay range by reviewing internal workflows, carrier handovers, or resource allocation.
+
+**Enhancing On-Time Rates:**
+
+•	 Analyze reasons for the 6.77& of late deliveries and implement strategies like predictive analytics for demand and route optimization.
+Customer Satisfaction:
+
+•	 Leverage the 4.3 review score for on-time deliveries as a benchmark. Work on improving the 2.3 score for late deliveries by providing better communication or compensation.
+
+**Tech Integration:**
+
+•	 Introduce AI-powered logistics software to forecast demand, optimize inventory placement, and automate task scheduling.
