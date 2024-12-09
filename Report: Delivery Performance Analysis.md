@@ -35,6 +35,12 @@ This analysis is based on Kaggle dataset with around 100k orders from 2016 to 20
 
 •	Over 65% of orders were delivered over 5 days behind schedule as opposed to what was estimated.
 
+•	Majority (35.55%) are <5 days delayed: These can often be mitigated with slight process tweaks or expedited shipping options.
+
+•	26.51% delayed 10–30 days: Focus on these as they likely impact customer satisfaction the most.
+
+•	Critical Delays (>30 days): Rare (3.99%) but require investigation of root causes like inventory shortages, lost packages, or customs clearance.
+
 •	In the review score, there is a big difference between timely delivery and late delivery. **Over-time delivery orders have an average score of just 2.3, while on-time delivery orders have an average score of 4.3**. Therefore, over-time delivery may affect customer satisfaction.
 
 •	It can be seen that the Top 20 sellers delay more than 30 times when preparing orders, especially 1 seller has 189 overdue deliveries to the carrier. When sellers fail to prepare goods repeatedly, warnings or sanctions should be implemented.
